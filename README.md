@@ -33,14 +33,16 @@ Each tool is chosen for a reason:
 clean-dev-terminal/
 ├── alacritty/        # Alacritty terminal config and guide
 │   └── README.md     # Alacritty setup instructions
+│   └── ...
 ├── zsh/              # Zsh config, plugins, and Powerlevel10k setup
 │   └── README.md     # Zsh + p10k configuration
+│   └── ...
 ├── tmux/             # Tmux config and plugin manager
 │   └── README.md     # Tmux usage & customization
+│   └── ...
 ├── fonts/            # Font installation and setup
 │   └── README.md     # Nerd Fonts info and links
-├── install.sh        # One-click installer (WIP)
-├── screenshots/      # Preview images
+│   └── ...
 └── README.md         # Main documentation
 ```
 
