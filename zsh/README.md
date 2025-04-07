@@ -4,10 +4,13 @@ This section provides a complete setup for Zsh and its powerful extensions. You'
 
 ## Setup Order Overview
 
-1. [Install Zsh](./zsh/zsh_setup.md)
-2. [Install Oh My Zsh](./oh_my_zsh/oh_my_zsh_setup.md)
-3. [Install Powerlevel10k](./powerlevel10k/p10k_setup.md)
-4. [Configure .zshrc](./zsh/zsh_configuration.md)
+| File | Description |
+|------|-------------|
+| [`zsh_setup.md`](./zsh/zsh_setup.md) | Step-by-step guide to install Zsh and set it as your default shell. |
+| [`oh_my_zsh_setup.md`](./oh_my_zsh/oh_my_zsh_setup.md) | Instructions to install Oh My Zsh and integrate it with your shell. |
+| [`p10k_setup.md`](./powerlevel10k/p10k_setup.md) | Quick setup for Powerlevel10k prompt, including theme selection and tips. |
+| [`zsh_configuration.md`](./zsh/zsh_configuration.md) | Guide how to understand `.zshrc`. |
+| [`.zhrc`](./zsh/.zshrc) | Full `.zshrc` configuration with aliases, plugins, history options, and more. |
 
 ### 1. Zsh Installation
 
