@@ -8,7 +8,8 @@ The goal is to provide an easy getting-started guide explaining why each tool is
 
 <div style="display: flex; gap: 50px;">
     <img src="https://github.com/user-attachments/assets/14290f1b-4e82-46a5-a56c-72b43a72dc68" width="49%"/>
-    <img src="https://github.com/user-attachments/assets/ddf48fa9-3be3-467b-bff2-f3605963d836" width="49%"/>
+    <img src="https://github.com/user-attachments/assets/719e6da2-2283-4b39-a6de-bd2fc81cb0c3" width="49%"/>
+
 </div>
 
 ## ✨ Why This Project Exists
