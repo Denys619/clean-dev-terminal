@@ -1,4 +1,4 @@
-lacritty Setup Guide
+## Alacritty Setup Guide
 
 This directory contains the configuration for **Alacritty**, a GPU-accelerated terminal emulator that's fast, minimal, and ideal for development. It offers a modern terminal experience with customizability and performance in mind, perfectly suited for developers who prioritize speed and visual clarity.
 

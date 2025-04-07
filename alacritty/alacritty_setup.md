@@ -1,5 +1,4 @@
-
-w to Install Alacritty
+## How to Install Alacritty
 
 Alacritty is a **modern GPU-accelerated terminal emulator**, focused on simplicity and performance. It’s available for Linux, macOS, and Windows, and can be installed either through a package manager or built from source for maximum control.
 
