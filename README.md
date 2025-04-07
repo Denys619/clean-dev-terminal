@@ -50,7 +50,37 @@ Each subdirectory contains:
 
 ## Installation Options
 
-Coming soon
+You can configure your environment step-by-step or quickly set up everything using the provided configuration files. Below are categorized installation and configuration guides for each component:
+
+| Category | Setup Guide | Configuration Guide | Ready Config |
+|----------|-------------|---------------------|---------------|
+| **Zsh** | [Zsh Setup](./zsh/zsh/zsh_setup.md) | [Zsh Configuration](./zsh/zsh/zsh_configuration.md) | [.zshrc](./zsh/zsh/.zshrc) |
+| **Oh My Zsh** | [Oh My Zsh Setup](./zsh/oh_my_zsh/oh_my_zsh_setup.md) | — | — |
+| **Powerlevel10k** | [P10K Setup](./zsh/powerlevel10k/p10k_setup.md) | — | — |
+| **Alacritty** | [Alacritty Setup](./alacritty/alacritty_setup.md) | [Alacritty Configuration](./alacritty/alacritty_configuration.md) | [alacritty.toml](./alacritty/alacritty.toml) |
+| **Fonts** | [Fonts Install](./fonts/README.md) | — | — |
+| **Tmux** | [Tmux Setup](./tmux/tmux_setup.md) | [Tmux Configuration](./tmux/tmux_configuration.md), [How to Use Tmux](./tmux/how_to_use_tmux.md) | [.tmux.conf](./tmux/.tmux.conf) |
+
+> ✅ You can follow each section individually, or use our ready-made config files for a quicker experience.
+
+### Step-by-Step Installation Flow
+
+If you're a beginner or want a structured way to get started, follow this path:
+
+1. **[Install Fonts](./fonts/README.md)** — Nerd Font for icons/glyphs  
+2. **[Install Zsh](./zsh/zsh/zsh_setup.md)** — Replace Bash with Zsh  
+3. **[Oh My Zsh](./zsh/oh_my_zsh/oh_my_zsh_setup.md)** — Plugin & theme manager  
+4. **[Powerlevel10k](./zsh/powerlevel10k/p10k_setup.md)** — Beautiful & fast prompt  
+5. **[Configure .zshrc](./zsh/zsh/zsh_configuration.md)** — Plugins, aliases, settings  
+6. **[Install Alacritty](./alacritty/alacritty_setup.md)** — Terminal emulator  
+7. **[Alacritty Config](./alacritty/alacritty_configuration.md)** — Style, font, keybinds  
+8. **[Install Tmux](./tmux/tmux_setup.md)** — Terminal multiplexer  
+9. **[Tmux Config](./tmux/tmux_configuration.md)** — Theme, plugins, options  
+10. **[How to Use Tmux](./tmux/how_to_use_tmux.md)** *(optional)* — Learn the basics
+
+> If you're short on time, copy the ready config files and tweak as needed.  
+> If you want to learn everything in depth, follow each section above for explanations and screenshots.
+
 
 ## Who Is This For?
 
