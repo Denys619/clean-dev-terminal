@@ -65,9 +65,9 @@ You can configure your environment step-by-step or quickly set up everything usi
 
 > ✅ You can follow each section individually, or use our ready-made config files for a quicker experience.
 
-### Step-by-Step Installation Flow
+### Manual Installation
 
-If you're a beginner or want a structured way to get started, follow this path:
+If you want a structured way to get started, follow this path:
 
 1. **[Install Fonts](./fonts/README.md)** — Nerd Font for icons/glyphs  
 2. **[Install Zsh](./zsh/zsh/zsh_setup.md)** — Replace Bash with Zsh  
@@ -83,6 +83,15 @@ If you're a beginner or want a structured way to get started, follow this path:
 > If you're short on time, copy the ready config files and tweak as needed.  
 > If you want to learn everything in depth, follow each section above for explanations and screenshots.
 
+### One-Click Installation
+
+For fast setup with all configurations, fonts, and plugins included:
+
+```bash
+sh ./install.sh
+```
+>⚠️ Works on most Debian-based Linux systems.
+>Make sure you review the script before running.
 
 ## Who Is This For?
 
