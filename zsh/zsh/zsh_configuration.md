@@ -30,6 +30,7 @@ alias ls='eza --tree --level=1 --icons'                 # Enhanced ls output wit
 alias ll='ls -la'                                       # Long list all files
 alias la='ls -A'                                        # List hidden files except . and ..
 alias l='ls -CF'                                        # Classify files and show in columns
+alias gitlog='git log --oneline --decorate --graph --all'
 alias ..='cd ..'                                        # Move one directory up
 alias update='sudo apt update && sudo apt upgrade -y'   # Full system update
 alias reload!='source ~/.zshrc'                         # Reload Zsh config without restarting the shell
