@@ -40,6 +40,7 @@ zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 # Aliases
 alias ls='eza --tree --level=1 --icons'
 alias g++='g++ -Wall -Wextra -pedantic -std=c++20'
+alias gitlog='git log --oneline --decorate --graph --all'
 
 # Syntax highlighting and autosuggestions
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
